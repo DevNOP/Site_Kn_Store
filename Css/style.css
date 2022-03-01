@@ -1,0 +1,62 @@
+@media screen and (max-width: 500px) {
+    #logo{
+        width: 100px;
+        margin: auto;
+        display: block;
+    }
+    
+    .cadastro{
+        padding: 50px;
+        border: 1px solid rgb(146, 144, 144);
+        border-radius: 10px;
+        
+    }
+    .inpu{
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        padding: 10px;
+    }
+
+    .genero{
+        margin-bottom: 20px;
+    }
+
+    .sub{
+        color: white;
+        background-color: #080808;
+        font-weight: bold;
+        padding: 7px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        padding: 10px;
+    }
+
+    .face{
+        color: white;
+        background-color: #3b5998;
+        font-weight: bold;
+        padding: 7px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        padding: 10px;
+        border: none;
+    }
+
+
+
+    .google{
+        color: black;
+        background-color: white;
+        font-weight: bold;
+        padding: 7px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        padding: 10px;
+    }
+
+
+}
