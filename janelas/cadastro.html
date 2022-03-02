@@ -5,36 +5,46 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="icon" href="./imagens/logo-knstore.jpg"  type="imagem/png"> 
-    <link rel="stylesheet" type="text/css" href="./Css/style.css">
+    <link rel="icon" href="../images/icones/logo-knstore.jpg"  type="imagem/png"> 
+    <link rel="stylesheet" type="text/css" href="./styles/registro_login/register.css">
     <title>cadastro</title>
 </head>
 <body>
     <div class="cadastro">
-        <img id="logo"  src="./imagens/logo-knstore.jpg" alt="Kn_store">
+        <img id="logo"  src="../images/icones/logo-knstore.jpg" alt="Kn_store">
         
         <h1>Criar seu cadastro</h1>
         <form method="post" action="/cadastro">
+
             <a>Seu Nome Completo:</a> 
             <input class="inpu" id="name" name="name" type="text" placeholder="Nome"> 
+
             <a>Gênero:</a> 
             <input class="genero" id="gênero" name="gênero" type="radio" value="M">  Masculino
             <input class="genero" id="gênero" name="gênero" type="radio" value="F"> Femenino 
+
             <a>Data de Nascimento</a> 
             <input class="inpu" type="date" name="data" max="2030-12-31"> 
+
             <a>Telefone:</a> 
             <input class="inpu" type="tel" name="telefone"> 
+
             <a>Seu E-mail:</a>
             <input class="inpu" id="email" name="email" type="email" placeholder="E-mail"> 
+
             <a>Sua Senha:</a> 
             <input class="inpu" id="senha" name="senha" type="password" placeholder="Senha"> 
+
             <a>Repetir Senha:</a> 
-            <input class="inpu" id="senha" name="senha" type="password" placeholder="Repita sua Senha"> 
+            <input class="inpu" id="senha" name="senha" type="password" placeholder="Repita sua Senha">
+
 
             <input class="sub" type="submit" value="Criar Conta">
-           
+
+            <hr>
+
             <input  class="face" type="submit" value="Entra com Facebook">
-            
+
 
             <input class="google" type="submit" value="Entra com Google">
         
