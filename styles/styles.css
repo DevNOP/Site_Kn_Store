@@ -27,7 +27,7 @@ img#search {
     height: 30px;
     position: absolute;
     top: 10px;
-    right: 195px;
+    right: 190px;
 }
 
 img#hearth {
@@ -35,7 +35,7 @@ img#hearth {
     height: 30px;
     position: absolute;
     top: 10px;
-    right: 150px;
+    right: 145px;
 }
 
 img#cart {
@@ -43,7 +43,7 @@ img#cart {
     height: 30px;
     position: absolute;
     top: 10px;
-    right: 105px;
+    right: 100px;
 }
 
 nav > a {
@@ -61,10 +61,11 @@ nav > a:hover {
 
 nav a p {
     color: #fff;
+    text-align: center;
     background-color: black;
     border: 1px solid black;
     border-radius: 10px;
-    width: 90px;
+    width: 80px;
     position: absolute;
     top: 33px;
     right: 5px;
