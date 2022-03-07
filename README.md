@@ -1,9 +1,9 @@
 # Site_Kn_Store
 
 ## Project Notes
--Sempre pensar em ajudar o nosso cliente
--Maximo de usabilidade
--Nosso cliente controla as ações do proprio site como banco de dados sem saber programação
+-Sempre pensar em ajudar o nosso cliente <br>
+-Maximo de usabilidade <br>
+-Nosso cliente controla as ações do proprio site como banco de dados sem saber programação <br>
 
 ## Front-end Compiling
 -HTML5<br>
