@@ -6,29 +6,29 @@
 -Nosso cliente controla as ações do proprio site como banco de dados sem saber programação
 
 ## Front-end Compiling
--HTML5
--CSS3
--JavaScript
+-HTML5<br>
+-CSS3<br>
+-JavaScript<br>
 -Bootstrap
 
 -Sendo adicionado: NodeJS e MongoDB
 
 ## Files & directories
--Imagens icones
+-Imagens icones <br>
     -images\icones
 
--Imagens Produtos
+-Imagens Produtos <br>
     -images\produtos
 
--Paginas web
+-Paginas web <br>
     -Index.html
     
     -Janelas/cadastro ou login
 
--Scripts
+-Scripts <br>
     -Scripts
 
--CSS
+-CSS <br>
     -styles/styles
 
     -styles/registro_login/login || register
@@ -42,7 +42,7 @@
 
 
 ## TeamDEV
--Abner (Scrum master)  / (Developer)
--Robert (Developer)
--Igor   (Developer)
+-Abner (Scrum master)  / (Developer) <br>
+-Robert (Developer) <br>
+-Igor   (Developer) <br>
 -Breno  (Design)
