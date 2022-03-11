@@ -78,6 +78,17 @@ body{
     color: black;
 }
 
+.criar{
+    text-decoration: none;
+    color: black;
+    margin-left: 200px;  
+}
+
+.criar:hover{
+    text-decoration: underline;
+    color: blue;
+}
+
 
 @media screen and (max-width: 500px) {
     body {
@@ -94,6 +105,7 @@ body{
         padding: 50px;
         border: 1px solid rgb(146, 144, 144);
         border-radius: 10px;
+        width: 250px;
         
     }
     .inpu{
@@ -147,4 +159,12 @@ body{
     h1{
         text-align: center;
     }
+
+    .criar{
+        text-decoration: underline;
+        color: blue; 
+        margin-left: 150px;  
+    }
+    
+    
 }
